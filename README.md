@@ -2,7 +2,7 @@
 Script for creating a customizable prompt for Bash.
 To install, simply source the file from your .bashrc.
 
-Things are *not complete* but is in a **workable** state.
+Things are **not complete** but is in a *workable* state.
 That said, I would not advise you using at this time.
 
 ###Examples:
