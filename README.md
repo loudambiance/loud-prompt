@@ -6,7 +6,9 @@ That said, I would not advise you using at this time.
 
 Examples:
 Most states Active:
+
 ![](http://i.imgur.com/abNYnoj.png)
 
 All dynamic states inactive:
+
 ![](http://i.imgur.com/Fe95S0r.png)
