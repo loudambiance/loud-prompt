@@ -6,7 +6,7 @@ That said, I would not advise you using at this time.
 
 Examples:
 Most states Active:
-![alt tag](http://i.imgur.com/abNYnoj.png)
+![](http://i.imgur.com/abNYnoj.png)
 
 All dynamic states inactive:
-![alt tag](http://i.imgur.com/Fe95S0r.png)
+![](http://i.imgur.com/Fe95S0r.png)
